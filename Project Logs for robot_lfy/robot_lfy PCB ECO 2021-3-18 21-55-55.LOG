@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=RASP_3P3V Pin=P13-1
+Added Pin To Net: NetName=RASP_3P3V Pin=P13-17
+Added Pin To Net: NetName=RASP_3P3V Pin=P14-1
+Added Pin To Net: NetName=RASP_3P3V Pin=P14-17
+Added Net: Name=RASP_3P3V
+Added Member To Class: ClassName=robot_lfy Member=Component U1 STM32F103R

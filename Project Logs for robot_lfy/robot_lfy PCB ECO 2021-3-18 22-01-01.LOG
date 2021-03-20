@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RASP_3P3V Pin=P13-1
+Removed Pin From Net: NetName=RASP_3P3V Pin=P14-1
+Added Pin To Net: NetName=RASP_3P3V1 Pin=P13-1
+Added Pin To Net: NetName=RASP_3P3V1 Pin=P14-1
+Added Net: Name=RASP_3P3V1
+Added Room: Name=robot_lfy

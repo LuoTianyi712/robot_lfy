@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=U8 Old Footprint= New Footprint=LFY-PDSO8
+Change Component Footprint: Designator=D1 Old Footprint=QXM-LC-0805_LED_S1 New Footprint=LFY-0805_LED_S1
+Change Component Footprint: Designator=D2 Old Footprint=QXM-LC-0805_LED_S1 New Footprint=LFY-0805_LED_S1
+Change Component Footprint: Designator=D3 Old Footprint=QXM-LC-0805_LED_S1 New Footprint=LFY-0805_LED_S1
+Change Component Footprint: Designator=D4 Old Footprint=QXM-LC-0805_LED_S1 New Footprint=LFY-0805_LED_S1
+Change Component Footprint: Designator=U1 Old Footprint=QXM-LQFP64-10*10 New Footprint=LFY-LQFP64-10*10
+Change Component Footprint: Designator=L1 Old Footprint=QXM-SLO1040H New Footprint=LFY-SLO1040H
+Change Component Footprint: Designator=D5 Old Footprint=QXM-SMA(DO-214AC)S2 New Footprint=LFY-SMA(DO-214AC)S2
+Change Component Footprint: Designator=D6 Old Footprint=QXM-SMA(DO-214AC)S2 New Footprint=LFY-SMA(DO-214AC)S2
+Change Component Footprint: Designator=U7 Old Footprint=QXM-SOT223 New Footprint=LFY-SOT223
+Change Component Footprint: Designator=U2 Old Footprint=QXM-SSOP24 New Footprint=LFY-SSOP24
+Change Component Footprint: Designator=S5 Old Footprint=QXM-SW-153D6-5 New Footprint=LFY-SW-153D6-5
+Change Component Footprint: Designator=U5 Old Footprint=QXM-TO263-3 New Footprint=LFY-TO263-3
+Change Component Footprint: Designator=F1 Old Footprint=ZJH-1812_F New Footprint=LFY-1812_F
+Change Component Footprint: Designator=RP1 Old Footprint=ZJH-VR-3296 New Footprint=LFT-VR-3296
+Change Component Footprint: Designator=Y2 Old Footprint=ZJH-XTAL-8M New Footprint=LFY-XTAL-8M
+Change Class Name : Old Net Name=robot_qxm New Net Name=robot_lfy
+Added Room: Name=robot_lfy

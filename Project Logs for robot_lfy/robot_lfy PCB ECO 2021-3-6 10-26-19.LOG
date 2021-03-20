@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=FREE_PB3 Pin=P16-2
+Removed Pin From Net: NetName=FREE_PB4 Pin=P16-4
+Removed Pin From Net: NetName=FREE_PB5 Pin=P16-6
+Removed Pin From Net: NetName=FREE_PB6 Pin=P16-8
+Removed Pin From Net: NetName=FREE_PB1 Pin=P16-9
+Removed Pin From Net: NetName=FREE_PB7 Pin=P16-10
+Change Component Footprint: Designator=P18 Old Footprint=HDR1X3 New Footprint=HDR1X4
+Change Component Comment : Designator=U9 Old Comment=EPS-0IS New Comment=EPS-01S
+Change Component Comment : Designator=P18 Old Comment=Header 3 New Comment=Header 4
+Added Pin To Net: NetName=FREE_PB4 Pin=P16-2
+Added Pin To Net: NetName=FREE_PB5 Pin=P16-4
+Added Pin To Net: NetName=FREE_PB6 Pin=P16-6
+Added Pin To Net: NetName=FREE_PB1 Pin=P16-7
+Added Pin To Net: NetName=FREE_PB7 Pin=P16-8
+Added Pin To Net: NetName=FREE_PB3 Pin=P16-9
+Added Pin To Net: NetName=AO Pin=P18-4
+Added Pin To Net: NetName=AO Pin=U1-26
+Added Net: Name=AO
+Added Room: Name=robot_lfy
